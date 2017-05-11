@@ -1,0 +1,27 @@
+{
+  "name": "nexpress",
+  "version": "1.0.0",
+  "description": "A simple node server based on express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shushanfx/nexpress.git"
+  },
+  "keywords": [
+    "server",
+    "node",
+    "express"
+  ],
+  "author": "shushanfx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shushanfx/nexpress/issues"
+  },
+  "homepage": "https://github.com/shushanfx/nexpress#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
